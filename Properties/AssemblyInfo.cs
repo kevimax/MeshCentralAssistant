@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MeshCentral Assistant")]
-[assembly: AssemblyDescription("Companion application for the MeshCentral agent.")]
+[assembly: AssemblyTitle("Lens Group Assistant")]
+[assembly: AssemblyDescription("Companion application for the Lens Group agent.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Open Soruce")]
-[assembly: AssemblyProduct("MeshAssistant")]
-[assembly: AssemblyCopyright("Apache 2.0 license")]
+[assembly: AssemblyCompany("LENS GROUP")]
+[assembly: AssemblyProduct("Lens Group Assistant")]
+[assembly: AssemblyCopyright("LENS GROUP - Apache 2.0 license")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
