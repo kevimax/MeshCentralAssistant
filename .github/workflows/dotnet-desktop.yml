@@ -39,16 +39,8 @@
 name: .NET Core Desktop
 
 on:
-  workflow_dispatch:
-    inputs:
-      serverUrl:
-        description: 'Server URL'     
-        required: true
-      rid:
-        description: 'Server Runtime Identifier'     
-        required: false
-        default: "linux-x64"
-
+  workflow_dispatch
+  
 jobs:
 
   build:
